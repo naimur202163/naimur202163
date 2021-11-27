@@ -12,7 +12,7 @@
 
 💬 Ask me about JavaScript, node js, react.js, redux
 
-📫 How to reach me raselabir107@gmail.com
+📫 How to reach me naimur202163@gmail.com
 
 ⚡ Fun fact I love to travel and reading books.
 <hr/>
@@ -36,7 +36,7 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=naimur202163&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
 <br/>
 
