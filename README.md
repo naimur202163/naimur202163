@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <a href="#"><img align="right" width="60%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="175px"/></a>
-<h1 align="center">Hey there,I'm Rasel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  </h1>
+<h1 align="center">Hey there,I'm Naimur Rahman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  </h1>
 <h3 align="center">I'm Full Stack Developer .</h3>
 
 
